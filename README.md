@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-0F1117?style=for-the-badge&logo=vercel&logoColor=06B6D4)](https://github.com/AronBastos/portifolio)
 [![Email](https://img.shields.io/badge/Email-0F1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:aron.lopes1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/aron-lopes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/aron-bastos)
 
 </div>
 
