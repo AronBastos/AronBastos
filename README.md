@@ -83,6 +83,9 @@ const aron = {
         <a href="https://github.com/AronBastos/pm-concursos">
           <img src="https://img.shields.io/badge/Código-0F1117?style=for-the-badge&logo=github&logoColor=white" />
         </a>
+        <a href="https://policialporescolha.cloud">
+          <img src="https://img.shields.io/badge/Ver%20ao%20vivo-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
       </p>
     </td>
   </tr>
@@ -116,7 +119,7 @@ const aron = {
 | Projeto | Descrição | Stack | Link |
 |---|---|---|---|
 | 🔬 Observatório Modera | Diagnóstico formativo ERER — 32 cenas, 15 por aluno | React · PHP · PostgreSQL · Docker | [observatoriomodera.pro](https://observatoriomodera.pro) |
-| 📚 Policial por Escolha | Plataforma de estudos para concursos de segurança pública | PHP · HTML · CSS · JS | [Repositório](https://github.com/AronBastos/pm-concursos) |
+| 📚 Policial por Escolha | Plataforma de estudos para concursos de segurança pública | PHP · HTML · CSS · JS | [policialporescolha.cloud](https://policialporescolha.cloud) |
 
 </div>
 
